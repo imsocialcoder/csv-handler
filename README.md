@@ -1,4 +1,4 @@
-A project which handles CSV files and prodives REST APIs to
+A project which handles CSV files and provides REST APIs to
 
 ● upload the data
 
